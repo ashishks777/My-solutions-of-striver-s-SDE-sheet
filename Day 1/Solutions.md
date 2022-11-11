@@ -16,4 +16,7 @@
      Sort an array of 0’s 1’s 2’s - <a href="https://leetcode.com/problems/sort-colors/submissions/841434478/"> Dutch National Flag</a> / <a href="https://leetcode.com/problems/sort-colors/submissions/737441611/"> Count Sort</a> 
   </li>
     
+   <li>
+    <a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/841462245/"> 	Stock buy and Sell</a>
+  </li>
 
