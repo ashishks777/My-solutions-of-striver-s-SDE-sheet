@@ -1,5 +1,8 @@
 
 <ul>
+   <li>
+  Set Matrix Zeroes<a href="https://leetcode.com/problems/set-matrix-zeroes/submissions/841783507/"> first(with some extra space)</a>/
+  </li>
   <li>
     <a href="https://leetcode.com/problems/pascals-triangle/submissions/840844311/"> Pascal’s Triangle</a>
   </li>
@@ -20,3 +23,4 @@
     <a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/841462245/"> 	Stock buy and Sell</a>
   </li>
 
+</ul>
