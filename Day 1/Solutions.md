@@ -1,7 +1,7 @@
 
 <ul>
    <li>
-  Set Matrix Zeroes-<a href="https://leetcode.com/problems/set-matrix-zeroes/submissions/841783507/"> with extra space</a> / <a href="https://leetcode.com/problems/set-matrix-zeroes/submissions/842634949/">  withoutextra space</a>
+  Set Matrix Zeroes-<a href="https://leetcode.com/problems/set-matrix-zeroes/submissions/841783507/"> with extra space</a> / <a href="https://leetcode.com/problems/set-matrix-zeroes/submissions/842634949/">  without extra space</a>
   </li>
   <li>
     <a href="https://leetcode.com/problems/pascals-triangle/submissions/840844311/"> Pascal’s Triangle</a>
