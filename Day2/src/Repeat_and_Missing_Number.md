@@ -1,3 +1,34 @@
+
+<h1> Using Extra space </h1>
+<pre>
+import java.util.* ;
+import java.io.*; 
+import java.util.ArrayList;
+
+public class Solution {
+
+    public static int[] missingAndRepeating(ArrayList<Integer> arr, int n) {
+        // Write your code here
+     int count[]=new int [arr.size()+1];
+        for(int i=0;i<arr.size();i++){
+            count[arr.get(i)]++;
+        }
+        
+        int ans[]=new int[2];
+        for(int i=1;i<count.length;i++){
+            if(count[i]==0){
+                ans[0]=i;
+            }else if(count[i]==2){
+                ans[1]=i;
+            }
+        }
+        return ans;
+        
+    }
+}
+</pre>
+<br> <br>
+<h1>Using XOR (without extra space) </h1>
 <pre>
 import java.util.* ;
 import java.io.*; 
