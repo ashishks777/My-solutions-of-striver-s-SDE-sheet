@@ -11,5 +11,11 @@
   <li>
     <a href="https://leetcode.com/problems/find-the-duplicate-number/submissions/841964942/">Find the duplicate in an array of N+1 integers space</a>
   </li>
+    
+    <li>
+    <a href="../src/Repeat_and_Missing_Number.md">Repeat and Missing Number</a>
+  </li>
   
 </ul>
+
+
