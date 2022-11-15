@@ -16,7 +16,7 @@
   </li>
     
    <li>
-    <a href="https://github.com/ashishks777/My_solutions_of_striver-s_SDE_sheet/blob/main/Day2/src/Repeat_and_Missing_Number.md#using-xor-without-extra-space-">Repeat and Missing Number</a>
+    <a href="https://github.com/ashishks777/My_solutions_of_striver-s_SDE_sheet/blob/main/Day2/src/Repeat_and_Missing_Number.md">Repeat and Missing Number</a>
   </li>
   
 </ul>
