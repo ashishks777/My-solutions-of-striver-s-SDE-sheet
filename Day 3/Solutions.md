@@ -8,7 +8,7 @@
     
   </li>
   <li>
-    Grid Unique Paths - <a href="https://leetcode.com/problems/unique-paths/submissions/845876222/"> memorization</a> | <a href="https://leetcode.com/problems/unique-paths/submissions/845878554/"> Dynamic Programming</a>
+    Grid Unique Paths - <a href="https://leetcode.com/problems/unique-paths/submissions/845876222/"> Memorization</a> | <a href="https://leetcode.com/problems/unique-paths/submissions/845878554/"> Dynamic Programming</a>
     
   </li>
   
