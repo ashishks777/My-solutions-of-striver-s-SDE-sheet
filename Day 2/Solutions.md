@@ -18,7 +18,7 @@
    <li>
     <a href="https://github.com/ashishks777/My_solutions_of_striver-s_SDE_sheet/blob/main/Day%202/src/Repeat_and_Missing_Number.md">Repeat and Missing Number</a>
   </li>
-    
+    </li>
      <li>
     <a href="https://github.com/ashishks777/My_solutions_of_striver-s_SDE_sheet/blob/main/Day%202/src/count_inversions.md">Inversion of Array (Pre-req: Merge Sort)</a>
   </li>
