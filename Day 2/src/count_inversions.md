@@ -36,7 +36,7 @@ class Solution
              merged[k++]=arr[j++];
         }
         
-        for(i=0;i<merged.length;i++){
+        for(i=0;i&ltmerged.length;i++){
             arr[lo++]=merged[i];
         }
         return count;
