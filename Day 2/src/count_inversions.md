@@ -44,7 +44,7 @@ class Solution
     
     
     public static long mergeSort(long arr[],int lo,int hi){
-        if(lo<hi){
+        if(lo&lthi){
             int mid=(lo+hi)/2;
           return  mergeSort(arr,lo,mid)+ mergeSort(arr,mid+1,hi)+merge(arr,lo,mid,hi);
         }
