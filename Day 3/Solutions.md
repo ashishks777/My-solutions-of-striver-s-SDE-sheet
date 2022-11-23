@@ -7,6 +7,11 @@
     <a href="https://leetcode.com/problems/majority-element/submissions/844582470/"> 	Majority Element (>N/2 times)</a>
     
   </li>
+  
+  <li>
+    <a href="https://leetcode.com/problems/majority-element-ii/submissions/848444670/"> 	Majority Element (>N/3 times)</a>
+    
+  </li>
   <li>
     Grid Unique Paths - <a href="https://leetcode.com/problems/unique-paths/submissions/845876222/"> Memorization</a> | <a href="https://leetcode.com/problems/unique-paths/submissions/845878554/"> Dynamic Programming</a>
     
