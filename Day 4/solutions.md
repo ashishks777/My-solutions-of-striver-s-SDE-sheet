@@ -7,6 +7,8 @@
   </li>
   <li> <a href="https://github.com/ashishks777/My_solutions_of_striver-s_SDE_sheet/blob/main/Day%204/src/Largest_subarray_with_0_sum.md"> Largest Subarray with 0 sum</a>
   </li>
+   <li> <a href="https://github.com/ashishks777/My_solutions_of_striver-s_SDE_sheet/blob/main/Day%204/src/Count%20number%20of%20subarrays%20with%20given%20Xor%20K.md">Count number of subarrays with given Xor K</a>
+  </li>
   
    <li> <a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/852226378/">Longest Substring without repeat</a>
   </li>
