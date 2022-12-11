@@ -11,5 +11,8 @@
    <li><a href="https://leetcode.com/problems/add-two-numbers/submissions/858127081/"> Add two numbers as LinkedList </a>
 </li>
   
+  <li><a href="https://leetcode.com/problems/delete-node-in-a-linked-list/submissions/858128772/"> Delete a given Node when a node is given </a>
+</li>
+  
   
 <ul>
