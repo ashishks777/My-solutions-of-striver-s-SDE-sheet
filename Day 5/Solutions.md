@@ -7,7 +7,8 @@
 </li>
   <li><a href="https://leetcode.com/problems/merge-two-sorted-lists/submissions/856689679/"> 	Merge two sorted Linked List </a>
 </li>
-  
+   <li><a href="https://leetcode.com/problems/remove-nth-node-from-end-of-list/submissions/861738352/"> Remove N-th node from back of LinkedList </a>
+</li>
    <li><a href="https://leetcode.com/problems/add-two-numbers/submissions/858127081/"> Add two numbers as LinkedList </a>
 </li>
   
