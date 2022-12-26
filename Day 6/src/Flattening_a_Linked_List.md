@@ -1,4 +1,4 @@
-<h1> 	Flattening of a LinkedList<h1> <br>
+<h1> 	Flattening of a LinkedList</h1> <br>
   
   <pre>
   
